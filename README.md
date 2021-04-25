@@ -1,6 +1,5 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhb&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadhb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mohammadhb/mohammadhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
