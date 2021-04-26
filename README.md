@@ -12,8 +12,7 @@
 I am a Senior Software Engineer/CTO and Musician.
 I Love Hard Challenges, Professional Lead Software Engineer, Open to work with cutting-edge technologies.I I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
 
-
-### Here's some of my statistics and work-load analysis
+### 📈  Here's some of my statistics and work-load analysis
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhb&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
