@@ -9,8 +9,8 @@
 
 ### 👨‍💻  A little introducing my self
 
-I am a Senior Software Engineer/CTO and Musician.
-I Love Hard Challenges, Professional Lead Software Engineer, Open to work with cutting-edge technologies.I I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
+I am a Senior/Lead Software Engineer/CTO and Musician.
+I Love Hard Challenges, Open to work with cutting-edge technologies.I I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
 
 ### 📈  Github Stats
 #### Here's some of my statistics and work-load analysis
