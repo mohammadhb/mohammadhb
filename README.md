@@ -7,7 +7,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@mohammadhb25)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ienjoykillinglikegoddoes)
 
-### ![](https://visitor-badge.glitch.me/badge?page_id=mohammadhb.mohammadhb) Glad to see you here! &nbsp;
+### Glad to see you here! &nbsp;
 
 I am a Senior Software Engineer/CTO and Musician.
 I Love Hard Challenges, Professional Lead Software Engineer, Open to work with cutting-edge technologies.I I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
@@ -20,6 +20,8 @@ I Love Hard Challenges, Professional Lead Software Engineer, Open to work with c
 
 <!--
 **mohammadhb/mohammadhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Visitor count : ![](https://visitor-badge.glitch.me/badge?page_id=mohammadhb.mohammadhb)
 
 Here are some ideas to get you started:
 
