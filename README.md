@@ -18,6 +18,10 @@ I Love Hard Challenges, Open to work with cutting-edge technologies.I I introduc
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhb&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
+### </>  Daily Dev
+
+<a href="https://app.daily.dev/mohammadhb25"><img src="https://api.daily.dev/devcards/b13550e288094a0bb26703f50d381b48.png?r=x3s" width="400" alt="Mohammad Hosein Balkhani's Dev Card"/></a>
+
 <!--
 **mohammadhb/mohammadhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
