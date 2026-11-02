@@ -9,18 +9,21 @@
 
 ### 👨‍💻  A little introducing my self
 
-I am a Senior/Lead Software Engineer/CTO and Musician.
-I Love Hard Challenges, Open to work with cutting-edge technologies.I I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
+I am a Software Engineer and Musician.
+I Love Hard Challenges, Open to work with cutting-edge technologies.
+I introduce my self as a Computer Lover Software engineer with a highly great sense of Leadership that consider quality and clean-work at its most, Sticked to the Agile Development, Perfect at learning new technologies and frameworks.
 
 ### 📈  Github Stats
 #### Here's some of my statistics and work-load analysis
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhb&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+-->
+![Github Stats](https://github-stats-extended.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&theme=blue_navy)
 
 ### </>  Daily Dev
 
-<a href="https://app.daily.dev/mohammadhb25"><img src="https://api.daily.dev/devcards/b13550e288094a0bb26703f50d381b48.png?r=x3s" width="400" alt="Mohammad Hosein Balkhani's Dev Card"/></a>
+<a href="https://app.daily.dev/mohammadhb25"><img src="https://api.daily.dev/devcards/b13550e288094a0bb26703f50d381b48.png?r=x3s" width="200" alt="Mohammad Hosein Balkhani's Dev Card"/></a>
 
 <!--
 **mohammadhb/mohammadhb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
