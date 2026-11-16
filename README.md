@@ -1,4 +1,4 @@
-### Hello there, I'm <a href="https://github.com/mohammadhb" target="_blank">Mohammad Hosein Balkhani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there, I'm <a href="https://github.com/mohammadhb" target="_blank">Mohammad Hosein Balkhani</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 👨‍💻  A little introducing my self
 
@@ -174,6 +174,7 @@ I introduce my self as a Computer Lover Software engineer with a highly great se
     </a>
 </p>
 
+## Contacts
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
@@ -185,7 +186,7 @@ I introduce my self as a Computer Lover Software engineer with a highly great se
 </p>
 
 
-### 📈  Github Stats
+## 📈  Github Stats
 #### Here's some of my statistics and work-load analysis
 
 <!--[![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadhb&hide_border=true&show_icons=true&line_height=40&include_all_commits=true&count_private=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -195,6 +196,6 @@ I introduce my self as a Computer Lover Software engineer with a highly great se
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhb&" alt="mohammadhb" /></p>
 
-### </>  Daily Dev
+## </>  Daily Dev
 <a href="https://app.daily.dev/mohammadhb25"><img src="https://api.daily.dev/devcards/b13550e288094a0bb26703f50d381b48.png?r=x3s" width="200" alt="Mohammad Hosein Balkhani's Dev Card"/></a>
 
